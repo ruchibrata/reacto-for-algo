@@ -1,0 +1,10 @@
+.board {
+  background-color: dimgray;
+  cursor: crosshair;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  /* overflow: hidden; */
+  flex: auto;
+}
